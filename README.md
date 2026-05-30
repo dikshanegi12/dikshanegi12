@@ -11,7 +11,7 @@ Currently building a portfolio across SQL, Python, and the Microsoft BI stack.
 ## 📊 Featured Projects
 
 **[Counselor Co-Pilot](https://github.com/dikshanegi12/counselor-copilot)** — An AI-assisted prep tool for K-12 counselors. Turns student data into counselor-ready briefs in seconds using an LLM. Built end-to-end in a weekend.
-👉 [Live demo](https://counselor-copilot-kp6phezbb3scp24wvpmpef.streamlit.app/)
+👉 [Live demo](https://counselor-copilot-diksha.streamlit.app)
 
 ## 📫 Reach me
 
